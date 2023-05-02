@@ -1,9 +1,6 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Andy Huynh </h1>
 
-<h3 align="center">A Full-Stack Software Engineer, previously writing software in the knowledge commerce space, is now passionately looking for next opprtunity</h3>
-<h3 align="center">Let us work together in this fascinating new space 🚀 !</h3>
+<h3 align="center">A Full-Stack Software Engineer, previously <a href="https://kajabi.com">@Kajabi</a>, is actively looking for next project and opportunity</h3>
 
 <div style="margin-top: 16px;" />
 
@@ -21,22 +18,22 @@
 - Web >> Ruby on Rails & React.js
 - CSS >> Vanilla, Sass, TailwindCSS
 - Testing >> RSpec, Capybara
-- APIs >> REST
+- Databases >> PostgreSQL, Redis
 - Cloud >> Heroku, AWS, Netlify
 - Version Control >> Git
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/ruby.png" alt="ruby" width="20" height="20"/> 
-  <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="20" height="20"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="20" height="20"/> 
+  <img src="https://img.icons8.com/color/48/000000/ruby.png" alt="ruby" width="30" height="30"/> 
+  <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="30" height="30"/> 
   
-  <img src="https://img.icons8.com/metro/26/000000/html-filetype.png" alt="html" width="20" height="20"/> 
-  <img src="https://img.icons8.com/metro/26/000000/css-filetype.png" alt="css" width="20" height="20"/> 
-  <img src="https://img.icons8.com/metro/26/000000/sass.png" alt="sass" width="20" height="20"/> 
-  <img src="https://img.icons8.com/metro/26/000000/tailwindcss.png" alt="tailwindcss" width="20" height="20"/> 
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" width="30" height="30"/> 
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwindcss" width="30" height="30"/> 
   
-  <img src="https://img.icons8.com/nolan/64/api-settings.png" alt="rest-api" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="heroku" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="postgresql" width="30" height="30"/>  
+  <img src="https://img.icons8.com/color/48/000000/redis.png" alt="redis" width="30" height="30"/>  
+  
+  <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="heroku" width="30" height="30"/> 
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="30" height="30"/> 
 </p>
 </div>
