@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andy Huynh </h1>
 
-<h3 align="center">A Full-Stack Software Engineer, previously <a href="https://kajabi.com">@Kajabi</a>, is actively looking for next project and opportunity</h3>
+<h3 align="center">A Full-Stack Software Engineer, previously <a href="https://kajabi.com">@Kajabi</a>, is actively looking for next project and opportunity as a Solutions Engineer</h3>
 
 <div style="margin-top: 16px;" />
 
